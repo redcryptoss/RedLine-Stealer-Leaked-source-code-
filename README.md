@@ -51,7 +51,7 @@ On windows 10 / Windows 11
 AND RUN Redline Builder 
 Replace url webhook discord
 <p align="center">
-  <img src="icon.png">
+  <img src="ec.png">
 </p>
 ## Telegram:
 https://t.me/Redline_stealer_2022
